@@ -1,0 +1,1 @@
+{"config":{"system_prompt":"","model":"","temperature":0,"top_p":1,"framework":"nextjs-page-tailwind"},"prompts":[{"prompt":"I need a web application with user registration. Each user should have their own portal where they can view data added by the administrator, such as judicial records and other information.","md5":"7bebd43ab49bc2eed146725c781f2c66"}]}
